@@ -1,19 +1,15 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Auto Layout 
-
-## Our Goal
-
-At the moment, our app only looks good on the canvas dimension that we’ve selected. If you run the app on screens with different aspect ratios or try to turn it to landscape, the designs will look broken. 
 
 Auto Layout allows us to set rules as to how we want our views to be displayed. Because mobile screens have different resolutions and sizes, we need these rules to tell the iPhone/iPad how it should layout all the elements in the storyboard onto the display. These rules allow our UI elements to be resized and positioned so that no matter which screen they are displayed on, they always look as the designer intended.
 
+## What I built
 
-## What you will create
+This is a little project that I developed in the six section of Angela Yu's IOS development <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/" target="_blank">course</a>. And the idea was resolving the problems that we got into when we try to rotate the screen to landscape or if we have a screen size that is not the same as the canvas. 
 
-Although Dicee is already pretty dicey, we get into problems when we try to rotate the screen to landscape or if we have a screen size that is not the same as the canvas. In this module, we’ll learn how to fix this and make our apps look exactly the way we want.
+https://user-images.githubusercontent.com/61299646/125363806-abd55480-e347-11eb-83c8-38e88569c92b.mov
 
-## What you will learn
+
+## What I learned
 
 * How to add constraints and understanding how Auto Layout works.
 * How to Pin and Align elements.
@@ -23,9 +19,4 @@ Although Dicee is already pretty dicey, we get into problems when we try to rota
 * How to use Stack Views to create complex interfaces.
 
 
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
 
